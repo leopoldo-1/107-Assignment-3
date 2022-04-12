@@ -1,0 +1,12 @@
+.catalog {
+  background: #ebe7de;
+}
+
+.catalog .product {
+  display: inline-block;
+}
+
+/* .catalog-list {
+  display: flex;
+  justify-content: center;
+} */
